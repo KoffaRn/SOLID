@@ -1,0 +1,1 @@
+Small school projects for SOLID principles
